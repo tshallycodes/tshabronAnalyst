@@ -104,13 +104,13 @@ The business plan (`Tshabron_Business_Plan.docx`) presents a **data-driven strat
     
 --- 
 
-###📄 License
+## **📄 License**
 This project is licensed under the MIT License.
 See the LICENSE file for more information.
 
 ---
 
-###📬 Contact
+## **📬 Contact**
 For questions, feedback:
 - Name: Chukwuebuka S. Tshally-Okeke
 - Email: bubutshally@gmail.com
