@@ -101,15 +101,17 @@ The business plan (`Tshabron_Business_Plan.docx`) presents a **data-driven strat
 11. Review sales performance, targets, CCR comparisons, and employee-salary analysis.
 
 12. Read the Business Plan: Open tshabron.docx to view the full strategy and financial plans.
+    
+--- 
 
 ###📄 License
 This project is licensed under the MIT License.
 See the LICENSE file for more information.
 
+---
+
 ###📬 Contact
 For questions, feedback:
 - Name: Chukwuebuka S. Tshally-Okeke
-
 - Email: bubutshally@gmail.com
-
 - GitHub: github.com/tshallycodes
