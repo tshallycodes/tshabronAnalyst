@@ -1,12 +1,3 @@
-branch_expenses.csv
-ccr_sales.csv
-expenses.csv
-products.csv
-sales.csv
-purchases.csv
-q1productsales.csv
-q1sales.csv
-salaraies.csv
-targets.csv
-images
-cleaned
+*.csv
+images/
+cleaned/
